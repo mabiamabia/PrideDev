@@ -1,8 +1,0 @@
-revisão de segunda-feira ou o que aprendemos até aqui
-instalações: git, eclipse,jdk
-classes
-orientação a objetos
-metodos
-maven
-testes
-construtores
