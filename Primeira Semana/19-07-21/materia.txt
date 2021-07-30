@@ -1,0 +1,5 @@
+instalações:
+
+eclipse
+git
+jdk
