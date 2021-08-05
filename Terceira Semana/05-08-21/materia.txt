@@ -1,0 +1,8 @@
+configuração do Spring boot:
+
+na mão:
+pom
+application.properties
+
+com spring initializer
+
