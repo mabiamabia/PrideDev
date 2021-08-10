@@ -1,0 +1,7 @@
+metodos http
+
+post, put, get, delete
+
+
+postman
+

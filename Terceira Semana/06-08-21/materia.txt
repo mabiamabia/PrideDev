@@ -1,0 +1,20 @@
+adicionou anotações
+dependencias:
+spring web
+spring data
+
+trocou a dao pelo repositorio
+
+criou:
+-repository(substitui a dao)
+-service(service executa o que era executado na main)
+-controller
+-entity
+
+@entity
+@
+Autowired
+@getMaapping
+@rest contrller
+
+criou metodo para receber parametros
