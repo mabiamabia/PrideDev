@@ -1,2 +1,4 @@
 
 crud
+parte de service(spring boot)
+regra de negocio dentro da service
